@@ -106,7 +106,11 @@
 .awards-contents{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    padding-top: rem;
+
+    padding-top: 1rem;
+=======
+    padding-top: 1rem;
+
     padding-bottom: 2rem;
     color: #f1f8fd;
 }
